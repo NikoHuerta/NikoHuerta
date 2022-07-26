@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning js based techs.
 - 💞️ I’m looking to collaborate on public repos.
 - 👀 Looking forward to Full Stack Dev.
-- 📫 How to reach me nhuertaf@icloud.com, nhuerta@protonmail.com, na.huertaf@gmail.com
+- 📫 How to reach me na.huertaf@gmail.com , nhuerta@protonmail.com 
 - 🌱 Stack : {
         Techs : [nodejs, react] ,
         Frameworks : [nestjs, nextjs, vuejs]
